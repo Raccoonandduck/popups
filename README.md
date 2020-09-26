@@ -1,2 +1,5 @@
 # popups
-Easy and flawless popups based on jQuery
+Simple and flawless popup plugin based on jQuery.
+
+# Example:
+$('element-selector').popups();
